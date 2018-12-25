@@ -1,0 +1,7 @@
+import './associate.spec'
+import './json.spec'
+import './metadata.spec'
+import './mock.spec'
+import './sync.spec'
+import './transformers.spec'
+import './xml.spec'

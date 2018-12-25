@@ -1,0 +1,1 @@
+* Make sure library is working on node and in browser
